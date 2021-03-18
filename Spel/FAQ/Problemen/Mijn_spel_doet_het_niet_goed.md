@@ -1,6 +1,6 @@
-Wanneer het spel enkele dingen niet goed doet kan dit verschillende oorzaken hebben.<br/>
-De meeste problemen kun je vaak al snel zelf verhelpen.<br/>
-Maar door de grote diversiteit aan problemen is er moeilijk een oplossing te noemen.<br/>
+Wanneer het spel enkele dingen niet goed doet kan dit  verschillende oorzaken hebben.<br/>
+De meeste problemen kun je vaak al snel zelf,  verhelpen.<br/>
+Maar door de grote diversiteit aan problemen i s er moeilijk een oplossing te noemen.<br/>
 
 Meestal wordt een groot aantal van de problemen al opgelost door het verversen (opnieuw laden) van de pagina.<br/>
 Ook ligt het probleem soms bij een instabiele internet verbinding. Heb je bijv een zwak signaal, <br/>
